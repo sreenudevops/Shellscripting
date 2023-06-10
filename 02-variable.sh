@@ -1,6 +1,6 @@
 #! /bin/bash
 
-NAME=Sreenu
+NAME=Ramesh
 
 echo "Hii $NAME ,How are you"
 echo "Good morning $NAME"
