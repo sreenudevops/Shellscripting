@@ -3,4 +3,4 @@
 NAME=$1
 WISH=$2
 
-echo "Hi ${NAME}, Good ${WISH}s
+echo "Hi ${NAME}, Good ${WISH}"
