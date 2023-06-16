@@ -1,7 +1,5 @@
 #! /bin/bash
+# How to run command inside shell script
 
-NAME=Ramesh
-
-echo "Hii $NAME ,How are you"
-echo "Good morning $NAME"
-echo "What are doing $NAME"
+DATE=(date + %F)
+echo "Hello today's date is ${DATE}
